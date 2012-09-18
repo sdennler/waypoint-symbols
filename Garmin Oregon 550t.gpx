@@ -118,276 +118,264 @@
   <sym>Museum</sym>
 </wpt>
 <wpt lat="3.109" lon="101.110">
-  <name>XT 1:0:0 </name>
+  <name>XT 1:0:0 Campground</name>
   <sym>Campground</sym>
 </wpt>
 <wpt lat="3.109" lon="101.111">
-  <name>XT 1:0:1 </name>
+  <name>XT 1:0:1 Trail Head</name>
   <sym>Trail Head</sym>
 </wpt>
 <wpt lat="3.109" lon="101.112">
-  <name>XT 1:0:2 </name>
+  <name>XT 1:0:2 Park</name>
   <sym>Park</sym>
 </wpt>
 <wpt lat="3.109" lon="101.113">
-  <name>XT 1:0:3 </name>
+  <name>XT 1:0:3 Forest</name>
   <sym>Forest</sym>
 </wpt>
 <wpt lat="3.108" lon="101.110">
-  <name>XT 1:1:0 </name>
+  <name>XT 1:1:0 Summit</name>
   <sym>Summit</sym>
 </wpt>
 <wpt lat="3.108" lon="101.111">
-  <name>XT 1:1:1 </name>
+  <name>XT 1:1:1 Fishing Area</name>
   <sym>Fishing Area</sym>
 </wpt>
 <wpt lat="3.108" lon="101.112">
-  <name>XT 1:1:2 </name>
+  <name>XT 1:1:2 Geocache</name>
   <sym>Geocache</sym>
 </wpt>
 <wpt lat="3.108" lon="101.113">
-  <name>XT 1:1:3 </name>
+  <name>XT 1:1:3 Geocache Found</name>
   <sym>Geocache Found</sym>
 </wpt>
 <wpt lat="3.107" lon="101.110">
-  <name>XT 1:2:0 </name>
+  <name>XT 1:2:0 Picnic Area</name>
   <sym>Picnic Area</sym>
 </wpt>
 <wpt lat="3.107" lon="101.111">
-  <name>XT 1:2:1 </name>
+  <name>XT 1:2:1 Restroom</name>
   <sym>Restroom</sym>
 </wpt>
 <wpt lat="3.107" lon="101.112">
-  <name>XT 1:2:2 </name>
+  <name>XT 1:2:2 Shower</name>
   <sym>Shower</sym>
 </wpt>
 <wpt lat="3.107" lon="101.113">
-  <name>XT 1:2:3 </name>
+  <name>XT 1:2:3 Beach</name>
   <sym>Beach</sym>
 </wpt>
 <wpt lat="3.106" lon="101.110">
-  <name>XT 1:3:0 </name>
+  <name>XT 1:3:0 RV Park</name>
   <sym>RV Park</sym>
 </wpt>
 <wpt lat="3.106" lon="101.111">
-  <name>XT 1:3:1 </name>
+  <name>XT 1:3:1 Scenic Area</name>
   <sym>Scenic Area</sym>
 </wpt>
 <wpt lat="3.106" lon="101.112">
-  <name>XT 1:3:2 </name>
+  <name>XT 1:3:2 Ski Resort</name>
   <sym>Ski Resort</sym>
 </wpt>
 <wpt lat="3.106" lon="101.113">
-  <name>XT 1:3:3 </name>
+  <name>XT 1:3:3 Swimming Area</name>
   <sym>Swimming Area</sym>
 </wpt>
 <wpt lat="3.105" lon="101.110">
-  <name>XT 1:4:0 </name>
+  <name>XT 1:4:0 Skiing Area</name>
   <sym>Skiing Area</sym>
 </wpt>
 <wpt lat="3.105" lon="101.111">
-  <name>XT 1:4:1 </name>
+  <name>XT 1:4:1 Golf Course</name>
   <sym>Golf Course</sym>
 </wpt>
 <wpt lat="3.105" lon="101.112">
-  <name>XT 1:4:2 </name>
+  <name>XT 1:4:2 Bike Trail</name>
   <sym>Bike Trail</sym>
 </wpt>
 <wpt lat="3.105" lon="101.113">
-  <name>XT 1:4:3 </name>
+  <name>XT 1:4:3 Drinking Water</name>
   <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="3.104" lon="101.110">
-  <name>XT 1:5:0 </name>
+  <name>XT 1:5:0 Tunnel</name>
   <sym>Tunnel</sym>
 </wpt>
 <wpt lat="3.104" lon="101.111">
-  <name>XT 1:5:1 </name>
+  <name>XT 1:5:1 Parachute Area</name>
   <sym>Parachute Area</sym>
 </wpt>
 <wpt lat="3.104" lon="101.112">
-  <name>XT 1:5:2 </name>
+  <name>XT 1:5:2 Glider Area</name>
   <sym>Glider Area</sym>
 </wpt>
 <wpt lat="3.104" lon="101.113">
-  <name>XT 1:5:3 </name>
+  <name>XT 1:5:3 Ultralight Area</name>
   <sym>Ultralight Area</sym>
 </wpt>
 <wpt lat="3.109" lon="101.120">
-  <name>XT 2:0:0 </name>
+  <name>XT 2:0:0 Upland Game</name>
   <sym>Upland Game</sym>
 </wpt>
 <wpt lat="3.109" lon="101.121">
-  <name>XT 2:0:1 </name>
+  <name>XT 2:0:1 Waterfowl</name>
   <sym>Waterfowl</sym>
 </wpt>
 <wpt lat="3.109" lon="101.122">
-  <name>XT 2:0:2 </name>
+  <name>XT 2:0:2 Furbearer</name>
   <sym>Furbearer</sym>
 </wpt>
 <wpt lat="3.109" lon="101.123">
-  <name>XT 2:0:3 </name>
+  <name>XT 2:0:3 Big Game</name>
   <sym>Big Game</sym>
 </wpt>
 <wpt lat="3.108" lon="101.120">
-  <name>XT 2:1:0 </name>
+  <name>XT 2:1:0 Small Game</name>
   <sym>Small Game</sym>
 </wpt>
 <wpt lat="3.108" lon="101.121">
-  <name>XT 2:1:1 </name>
+  <name>XT 2:1:1 Covey</name>
   <sym>Covey</sym>
 </wpt>
 <wpt lat="3.108" lon="101.122">
-  <name>XT 2:1:2 </name>
+  <name>XT 2:1:2 Cover</name>
   <sym>Cover</sym>
 </wpt>
 <wpt lat="3.108" lon="101.123">
-  <name>XT 2:1:3 </name>
+  <name>XT 2:1:3 Treed Quarry</name>
   <sym>Treed Quarry</sym>
 </wpt>
 <wpt lat="3.107" lon="101.120">
-  <name>XT 2:2:0 </name>
+  <name>XT 2:2:0 Water Source</name>
   <sym>Water Source</sym>
 </wpt>
 <wpt lat="3.107" lon="101.121">
-  <name>XT 2:2:1 </name>
+  <name>XT 2:2:1 Food Source</name>
   <sym>Food Source</sym>
 </wpt>
 <wpt lat="3.107" lon="101.122">
-  <name>XT 2:2:2 </name>
+  <name>XT 2:2:2 Animal Tracks</name>
   <sym>Animal Tracks</sym>
 </wpt>
 <wpt lat="3.107" lon="101.123">
-  <name>XT 2:2:3 </name>
+  <name>XT 2:2:3 Blood Trail</name>
   <sym>Blood Trail</sym>
 </wpt>
 <wpt lat="3.106" lon="101.120">
-  <name>XT 2:3:0 </name>
+  <name>XT 2:3:0 Truck</name>
   <sym>Truck</sym>
 </wpt>
 <wpt lat="3.106" lon="101.121">
-  <name>XT 2:3:1 </name>
+  <name>XT 2:3:1 ATV</name>
   <sym>ATV</sym>
 </wpt>
 <wpt lat="3.106" lon="101.122">
-  <name>XT 2:3:2 </name>
+  <name>XT 2:3:2 Lodge</name>
   <sym>Lodge</sym>
 </wpt>
 <wpt lat="3.106" lon="101.123">
-  <name>XT 2:3:3 </name>
+  <name>XT 2:3:3 Campground</name>
   <sym>Campground</sym>
 </wpt>
 <wpt lat="3.105" lon="101.120">
-  <name>XT 2:4:0 </name>
+  <name>XT 2:4:0 Blind</name>
   <sym>Blind</sym>
 </wpt>
 <wpt lat="3.109" lon="101.130">
-  <name>XT 3:0:0 </name>
+  <name>XT 3:0:0 Anchor</name>
   <sym>Anchor</sym>
 </wpt>
 <wpt lat="3.109" lon="101.131">
-  <name>XT 3:0:1 </name>
+  <name>XT 3:0:1 Fishing Area</name>
   <sym>Fishing Area</sym>
 </wpt>
 <wpt lat="3.109" lon="101.132">
-  <name>XT 3:0:2 </name>
+  <name>XT 3:0:2 Man Overboard</name>
   <sym>Man Overboard</sym>
 </wpt>
 <wpt lat="3.109" lon="101.133">
-  <name>XT 3:0:3 </name>
+  <name>XT 3:0:3 Diver Down Flag 1</name>
   <sym>Diver Down Flag 1</sym>
 </wpt>
 <wpt lat="3.108" lon="101.130">
-  <name>XT 3:1:0 </name>
+  <name>XT 3:1:0 Diver Down Flag 2</name>
   <sym>Diver Down Flag 2</sym>
 </wpt>
 <wpt lat="3.108" lon="101.131">
-  <name>XT 3:1:1 </name>
+  <name>XT 3:1:1 Beach</name>
   <sym>Beach</sym>
 </wpt>
 <wpt lat="3.108" lon="101.132">
-  <name>XT 3:1:2 </name>
+  <name>XT 3:1:2 Skull and Crossbones</name>
   <sym>Skull and Crossbones</sym>
 </wpt>
 <wpt lat="3.108" lon="101.133">
-  <name>XT 3:1:3 </name>
+  <name>XT 3:1:3 Light</name>
   <sym>Light</sym>
 </wpt>
 <wpt lat="3.107" lon="101.130">
-  <name>XT 3:2:0 </name>
+  <name>XT 3:2:0 Buoy, White</name>
   <sym>Buoy, White</sym>
 </wpt>
 <wpt lat="3.107" lon="101.131">
-  <name>XT 3:2:1 </name>
+  <name>XT 3:2:1 Shipwreck</name>
   <sym>Shipwreck</sym>
 </wpt>
 <wpt lat="3.107" lon="101.132">
-  <name>XT 3:2:2 </name>
+  <name>XT 3:2:2 Radio Beacon</name>
   <sym>Radio Beacon</sym>
 </wpt>
 <wpt lat="3.107" lon="101.133">
-  <name>XT 3:2:3 </name>
+  <name>XT 3:2:3 Horn</name>
   <sym>Horn</sym>
 </wpt>
 <wpt lat="3.106" lon="101.130">
-  <name>XT 3:3:0 </name>
+  <name>XT 3:3:0 Controlled Area</name>
   <sym>Controlled Area</sym>
 </wpt>
 <wpt lat="3.106" lon="101.131">
-  <name>XT 3:3:1 </name>
+  <name>XT 3:3:1 Restricted Area</name>
   <sym>Restricted Area</sym>
 </wpt>
 <wpt lat="3.106" lon="101.132">
-  <name>XT 3:3:2 </name>
+  <name>XT 3:3:2 Danger Area</name>
   <sym>Danger Area</sym>
 </wpt>
 <wpt lat="3.106" lon="101.133">
-  <name>XT 3:3:3 </name>
+  <name>XT 3:3:3 Restaurant</name>
   <sym>Restaurant</sym>
 </wpt>
 <wpt lat="3.105" lon="101.130">
-  <name>XT 3:4:0 </name>
+  <name>XT 3:4:0 Bridge</name>
   <sym>Bridge</sym>
 </wpt>
 <wpt lat="3.105" lon="101.131">
-  <name>XT 3:4:1 </name>
+  <name>XT 3:4:1 Dam</name>
   <sym>Dam</sym>
 </wpt>
 <wpt lat="3.105" lon="101.132">
-  <name>XT 3:4:2 </name>
+  <name>XT 3:4:2 Swimming Area</name>
   <sym>Swimming Area</sym>
 </wpt>
 <wpt lat="3.105" lon="101.133">
-  <name>XT 3:4:3 </name>
+  <name>XT 3:4:3 Boat Ramp</name>
   <sym>Boat Ramp</sym>
 </wpt>
 <wpt lat="3.104" lon="101.130">
-  <name>XT 3:5:0 </name>
+  <name>XT 3:5:0 Skiing Area</name>
   <sym>Skiing Area</sym>
 </wpt>
 <wpt lat="3.104" lon="101.131">
-  <name>XT 3:5:1 </name>
+  <name>XT 3:5:1 Restroom</name>
   <sym>Restroom</sym>
 </wpt>
 <wpt lat="3.104" lon="101.132">
-  <name>XT 3:5:2 </name>
+  <name>XT 3:5:2 Gas Station</name>
   <sym>Gas Station</sym>
 </wpt>
 <wpt lat="3.104" lon="101.133">
-  <name>XT 3:5:3 </name>
+  <name>XT 3:5:3 Campground</name>
   <sym>Campground</sym>
-</wpt>
-<wpt lat="3.103" lon="101.131">
-  <name>XT 3:6:1 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.132">
-  <name>XT 3:6:2 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.133">
-  <name>XT 3:6:3 </name>
-  <sym></sym>
 </wpt>
 <wpt lat="3.109" lon="101.140">
   <name>XT 4:0:0 </name>

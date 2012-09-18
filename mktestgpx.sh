@@ -9,6 +9,30 @@ sym=(\
  "City (Small)" "City (Medium)" "City (Large)" "Crossing"\
  "Residence" "Fishing Hot Spot Facility" "Lodge" "Museum"\
 
+ "Campground" "Trail Head" "Park" "Forest"\
+ "Summit" "Fishing Area" "Geocache" "Geocache Found"\
+ "Picnic Area" "Restroom" "Shower" "Beach"\
+ "RV Park" "Scenic Area" "Ski Resort" "Swimming Area"\
+ "Skiing Area" "Golf Course" "Bike Trail" "Drinking Water"\
+ "Tunnel" "Parachute Area" "Glider Area" "Ultralight Area"\
+ "X" "X" "X" "X"\
+
+ "Upland Game" "Waterfowl" "Furbearer" "Big Game"\
+ "Small Game" "Covey" "Cover" "Treed Quarry"\
+ "Water Source" "Food Source" "Animal Tracks" "Blood Trail"\
+ "Truck" "ATV" "Lodge" "Campground"\
+ "Blind" "X" "X" "X"\
+ "X" "X" "X" "X"\
+ "X" "X" "X" "X"\
+
+ "Anchor" "Fishing Area" "Man Overboard" "Diver Down Flag 1"\
+ "Diver Down Flag 2" "Beach" "Skull and Crossbones" "Light"\
+ "Buoy, White" "Shipwreck" "Radio Beacon" "Horn"\
+ "Controlled Area" "Restricted Area" "Danger Area" "Restaurant"\
+ "Bridge" "Dam" "Swimming Area" "Boat Ramp"\
+ "Skiing Area" "Restroom" "Gas Station" "Campground"\
+ "X" "X" "X" "X"\
+
  "" "" "" ""\
  "" "" "" ""\
  "" "" "" ""\
@@ -36,10 +60,12 @@ for (( b = 0; b <= 9; b++ ))
      let lat=9-$x
      let lon=$y
      #echo -n "$lat:$lon "
-     echo "<wpt lat=\"3.10$lat\" lon=\"101.1$b$lon\">"
-     echo "  <name>XT $b:$x:$y ${sym[$symi]}</name>"
-     echo "  <sym>${sym[$symi]}</sym>"
-     echo "</wpt>"
+     if [ "X" != "${sym[$symi]}" ]; then
+      echo "<wpt lat=\"3.10$lat\" lon=\"101.1$b$lon\">"
+      echo "  <name>XT $b:$x:$y ${sym[$symi]}</name>"
+      echo "  <sym>${sym[$symi]}</sym>"
+      echo "</wpt>"
+     fi
      let symi++
     done
     #echo
