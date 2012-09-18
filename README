@@ -1,0 +1,9 @@
+This are some symbols for waypoints to use in QLandkarte GT which match the ones on Garmin Devices.
+
+You find the ready to use symbols in the folder finished. Copy them to ~/.config/QLandkarteGT/WaypointIcons/ to uses in QLandkarte GT.
+
+If you like to edit the symbols or add more, its best to use Inkscape to edit the file garmin_symbols.svg. After, export the symbols whit the export function to png files and use the script rename_sym.sh (it will overwrite files in finished and the QLandkarte config directory!) so they have the right names.
+And yes, it would be great to have your edits in this repository to!
+
+All symbols are from The Open Clipart Library (OCAL) (http://openclipart.org/) or drawn/modivied by me.
+The license of all symbols is CC0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/).
