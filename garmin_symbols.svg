@@ -16,8 +16,34 @@
  version="1.1"
  inkscape:version="0.48.3.1 r9886"
  sodipodi:docname="garmin_symbols.svg">
+<title
+ id="title3168">Garmin Waypoint Symbols</title>
 <defs
  id="defs4">
+<linearGradient
+ inkscape:collect="always"
+ id="linearGradient4291">
+<stop
+ style="stop-color:#097b09;stop-opacity:1;"
+ offset="0"
+ id="stop4293" />
+<stop
+ style="stop-color:#097b09;stop-opacity:0;"
+ offset="1"
+ id="stop4295" />
+</linearGradient>
+<linearGradient
+ inkscape:collect="always"
+ id="linearGradient4274">
+<stop
+ style="stop-color:#000000;stop-opacity:1;"
+ offset="0"
+ id="stop4276" />
+<stop
+ style="stop-color:#000000;stop-opacity:0;"
+ offset="1"
+ id="stop4278" />
+</linearGradient>
 <linearGradient
  id="linearGradient4244">
 <stop
@@ -423,7 +449,7 @@
  xlink:href="#linearGradient4244"
  id="radialGradient4268"
  gradientUnits="userSpaceOnUse"
- gradientTransform="matrix(1.5851321,-0.55499803,0.35566759,2.7149834,-114.24309,131.41842)"
+ gradientTransform="matrix(1.5851362,-0.61409483,0.35566851,3.0040778,-114.24398,138.25959)"
  cx="184.9921"
  cy="-2.1626298"
  fx="184.9921"
@@ -593,6 +619,176 @@
  offset="1"
  id="stop3422" />
 </linearGradient>
+<linearGradient
+ inkscape:collect="always"
+ xlink:href="#XMLID_2_"
+ id="linearGradient3202"
+ gradientUnits="userSpaceOnUse"
+ gradientTransform="matrix(0.336922,0,0,0.166888,17.98288,15.46151)"
+ x1="52.006104"
+ y1="166.1331"
+ x2="14.049017"
+ y2="-42.218513" />
+<linearGradient
+ inkscape:collect="always"
+ xlink:href="#linearGradient2329"
+ id="linearGradient3204"
+ gradientUnits="userSpaceOnUse"
+ gradientTransform="matrix(0.898789,0,0,1.071914,0.478025,-2.080838)"
+ x1="17.602522"
+ y1="26.057423"
+ x2="17.682528"
+ y2="32.654099" />
+<radialGradient
+ inkscape:collect="always"
+ xlink:href="#linearGradient2378"
+ id="radialGradient3206"
+ gradientUnits="userSpaceOnUse"
+ gradientTransform="matrix(3.4441131,0.01212643,-0.00332826,0.9452877,-63.819496,7.0520605)"
+ cx="24.195112"
+ cy="10.577631"
+ fx="24.195112"
+ fy="10.577631"
+ r="15.242914" />
+<linearGradient
+ inkscape:collect="always"
+ xlink:href="#linearGradient2406"
+ id="linearGradient3208"
+ gradientUnits="userSpaceOnUse"
+ gradientTransform="matrix(0.888785,0,0,1.08932,2.41099,-1.524336)"
+ x1="17.850183"
+ y1="28.939463"
+ x2="19.040216"
+ y2="41.03223" />
+<radialGradient
+ inkscape:collect="always"
+ xlink:href="#linearGradient2319"
+ id="radialGradient3210"
+ gradientUnits="userSpaceOnUse"
+ gradientTransform="matrix(1.125263,0,0,0.982744,-3.428678,0.731106)"
+ cx="20.443665"
+ cy="37.425829"
+ fx="20.443665"
+ fy="37.425829"
+ r="1.0821035" />
+<radialGradient
+ inkscape:collect="always"
+ xlink:href="#linearGradient2307"
+ id="radialGradient3212"
+ gradientUnits="userSpaceOnUse"
+ gradientTransform="matrix(1.125263,0,0,0.982744,-3.428678,0.565787)"
+ cx="19.985598"
+ cy="36.77816"
+ fx="19.985598"
+ fy="36.77816"
+ r="1.0821035" />
+<linearGradient
+ inkscape:collect="always"
+ xlink:href="#XMLID_39_"
+ id="linearGradient3214"
+ gradientUnits="userSpaceOnUse"
+ gradientTransform="matrix(0.354101,0,0,0.354101,1.638679,-0.08364921)"
+ x1="64.387703"
+ y1="65.124001"
+ x2="64.387703"
+ y2="35.569" />
+<radialGradient
+ inkscape:collect="always"
+ xlink:href="#linearGradient2299"
+ id="radialGradient3216"
+ gradientUnits="userSpaceOnUse"
+ gradientTransform="matrix(3.159938,0,0,2.9636625,-18.777114,-49.01353)"
+ cx="7.5326638"
+ cy="24.202574"
+ fx="7.5326638"
+ fy="24.202574"
+ r="8.2452128" />
+<radialGradient
+ inkscape:collect="always"
+ xlink:href="#linearGradient2341"
+ id="radialGradient3218"
+ gradientUnits="userSpaceOnUse"
+ gradientTransform="matrix(3.159938,0,0,-2.9636625,16.378841,80.7069)"
+ cx="11.68129"
+ cy="19.554111"
+ fx="11.68129"
+ fy="19.554111"
+ r="8.2452126" />
+<radialGradient
+ inkscape:collect="always"
+ xlink:href="#linearGradient2368"
+ id="radialGradient3220"
+ gradientUnits="userSpaceOnUse"
+ gradientTransform="matrix(3.0443127,0,0,2.097013,-61.835437,-34.651645)"
+ cx="29.913452"
+ cy="30.442923"
+ fx="29.913452"
+ fy="30.442923"
+ r="4.0018832" />
+<radialGradient
+ inkscape:collect="always"
+ xlink:href="#linearGradient2368"
+ id="radialGradient3236"
+ gradientUnits="userSpaceOnUse"
+ gradientTransform="matrix(3.0443127,0,0,2.097013,-50.062227,-34.651645)"
+ cx="29.913452"
+ cy="30.442923"
+ fx="29.913452"
+ fy="30.442923"
+ r="4.0018832" />
+<radialGradient
+ inkscape:collect="always"
+ xlink:href="#linearGradient2299"
+ id="radialGradient3242"
+ gradientUnits="userSpaceOnUse"
+ gradientTransform="matrix(5.7281054,0,0,2.9636625,-38.122256,-49.01353)"
+ cx="7.5326638"
+ cy="24.202574"
+ fx="7.5326638"
+ fy="24.202574"
+ r="8.2452128" />
+<radialGradient
+ inkscape:collect="always"
+ xlink:href="#linearGradient3844-1"
+ id="radialGradient4359-3"
+ gradientUnits="userSpaceOnUse"
+ cx="128.05309"
+ cy="265.81683"
+ fx="128.05309"
+ fy="265.81683"
+ r="42.857143" />
+<linearGradient
+ inkscape:collect="always"
+ id="linearGradient3844-1">
+<stop
+ style="stop-color:#ffffff;stop-opacity:1;"
+ offset="0"
+ id="stop3846-5" />
+<stop
+ style="stop-color:#ffffff;stop-opacity:0;"
+ offset="1"
+ id="stop3848-0" />
+</linearGradient>
+<radialGradient
+ inkscape:collect="always"
+ xlink:href="#linearGradient4274"
+ id="radialGradient4281"
+ cx="151.42857"
+ cy="299.50504"
+ fx="151.42857"
+ fy="299.50504"
+ r="42.857143"
+ gradientUnits="userSpaceOnUse" />
+<radialGradient
+ inkscape:collect="always"
+ xlink:href="#linearGradient4291"
+ id="radialGradient4297"
+ cx="151.42857"
+ cy="299.50504"
+ fx="151.42857"
+ fy="299.50504"
+ r="43.492407"
+ gradientUnits="userSpaceOnUse" />
 </defs>
 <sodipodi:namedview
  id="base"
@@ -601,11 +797,11 @@
  borderopacity="1.0"
  inkscape:pageopacity="0.0"
  inkscape:pageshadow="2"
- inkscape:zoom="2.99"
- inkscape:cx="96.864146"
- inkscape:cy="776.60641"
+ inkscape:zoom="5.6568543"
+ inkscape:cx="99.95387"
+ inkscape:cy="965.63344"
  inkscape:document-units="px"
- inkscape:current-layer="Fishing_Hot_Spot_Facility"
+ inkscape:current-layer="layer1"
  showgrid="false"
  inkscape:window-width="1366"
  inkscape:window-height="749"
@@ -620,28 +816,34 @@
 <dc:format>image/svg+xml</dc:format>
 <dc:type
  rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-<dc:title />
+<dc:title>Garmin Waypoint Symbols</dc:title>
 <cc:license
- rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+ rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
 <dc:description>Symbols for Waypoints
-Use whit QTLandkarte and Garmin Devices</dc:description>
+Use whit QLandkarte and Garmin Devices</dc:description>
+<dc:source>https://github.com/sdennler/waypoint-symbols</dc:source>
+<dc:contributor>
+<cc:Agent>
+<dc:title>The Open Clipart Library (OCAL) (http://openclipart.org/)</dc:title>
+</cc:Agent>
+</dc:contributor>
+<dc:subject>
+<rdf:Bag>
+<rdf:li>waypoint</rdf:li>
+<rdf:li>symbols</rdf:li>
+<rdf:li>garmin</rdf:li>
+<rdf:li>gpx</rdf:li>
+</rdf:Bag>
+</dc:subject>
 </cc:Work>
 <cc:License
- rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+ rdf:about="http://creativecommons.org/licenses/publicdomain/">
 <cc:permits
  rdf:resource="http://creativecommons.org/ns#Reproduction" />
 <cc:permits
  rdf:resource="http://creativecommons.org/ns#Distribution" />
-<cc:requires
- rdf:resource="http://creativecommons.org/ns#Notice" />
-<cc:requires
- rdf:resource="http://creativecommons.org/ns#Attribution" />
-<cc:prohibits
- rdf:resource="http://creativecommons.org/ns#CommercialUse" />
 <cc:permits
  rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-<cc:requires
- rdf:resource="http://creativecommons.org/ns#ShareAlike" />
 </cc:License>
 </rdf:RDF>
 </metadata>
@@ -653,28 +855,38 @@ Use whit QTLandkarte and Garmin Devices</dc:description>
  id="City_-Large-"
  transform="matrix(0.19917682,0,0,0.19917682,100.04425,180.00056)"
  inkscape:label="City (Large)"
- inkscape:export-xdpi="89.98455"
- inkscape:export-ydpi="89.98455">
+ inkscape:export-xdpi="91.334068"
+ inkscape:export-ydpi="91.334068">
 <path
- transform="matrix(0.51946977,0,0,0.51946977,-39.582667,-114.11658)"
- d="m 194.28572,299.50504 c 0,23.66934 -19.1878,42.85714 -42.85715,42.85714 -23.66934,0 -42.85714,-19.1878 -42.85714,-42.85714 0,-23.66935 19.1878,-42.85715 42.85714,-42.85715 23.66935,0 42.85715,19.1878 42.85715,42.85715 z"
+ transform="matrix(0.6349075,0,0,0.6349075,-57.063238,-148.69076)"
+ d="m 194.28572,299.50504 a 42.857143,42.857143 0 1 1 -85.71429,0 42.857143,42.857143 0 1 1 85.71429,0 z"
  sodipodi:ry="42.857143"
  sodipodi:rx="42.857143"
  sodipodi:cy="299.50504"
  sodipodi:cx="151.42857"
  id="path4365"
- style="fill:#038303;fill-opacity:1;stroke:#097b09;stroke-width:1.27052629;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+ style="fill:#038303;fill-opacity:1;stroke:url(#radialGradient4297);stroke-width:1.27052629;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
  sodipodi:type="arc" />
 <path
  sodipodi:type="arc"
- style="fill:url(#radialGradient4369);fill-opacity:1;stroke:none"
+ style="fill:url(#radialGradient4369);fill-opacity:1;stroke:url(#radialGradient4281)"
  id="path4367"
  sodipodi:cx="151.42857"
  sodipodi:cy="299.50504"
  sodipodi:rx="42.857143"
  sodipodi:ry="42.857143"
- d="m 194.28572,299.50504 c 0,23.66934 -19.1878,42.85714 -42.85715,42.85714 -23.66934,0 -42.85714,-19.1878 -42.85714,-42.85714 0,-23.66935 19.1878,-42.85715 42.85714,-42.85715 23.66935,0 42.85715,19.1878 42.85715,42.85715 z"
- transform="matrix(0.51946977,0,0,0.51946977,-39.582667,-114.11658)" />
+ d="m 194.28572,299.50504 a 42.857143,42.857143 0 1 1 -85.71429,0 42.857143,42.857143 0 1 1 85.71429,0 z"
+ transform="matrix(0.6349075,0,0,0.6349075,-57.063238,-148.69076)" />
+<path
+ transform="matrix(0.92350184,0,0,0.92350184,-100.76467,-235.12622)"
+ d="m 194.28572,299.50504 a 42.857143,42.857143 0 1 1 -85.71429,0 42.857143,42.857143 0 1 1 85.71429,0 z"
+ sodipodi:ry="42.857143"
+ sodipodi:rx="42.857143"
+ sodipodi:cy="299.50504"
+ sodipodi:cx="151.42857"
+ id="path4347-7"
+ style="fill:none;fill-opacity:1;stroke:none"
+ sodipodi:type="arc" />
 </g>
 <g
  id="Crossing"
@@ -723,6 +935,13 @@ Use whit QTLandkarte and Garmin Devices</dc:description>
  style="color:#000000;fill:url(#linearGradient1514);fill-opacity:1;fill-rule:nonzero;stroke:#757575;stroke-width:1.0000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
  inkscape:connector-curvature="0" />
 <path
+ sodipodi:nodetypes="ccccccc"
+ style="opacity:0.2;fill:url(#radialGradient2384);fill-opacity:1;fill-rule:evenodd"
+ id="path23"
+ d="M 7.2075295,27.943053 7.1532728,30.538247 25.521437,17.358993 40.807832,28.513421 40.879142,28.201707 24.508686,12.297576 7.2075295,27.943053 z"
+ clip-rule="evenodd"
+ inkscape:connector-curvature="0" />
+<path
  d="m 46.963575,45.735573 -45.3248988,0 0,-45.32489746 45.3248988,0 0,45.32489746 z"
  id="path5"
  style="fill:none"
@@ -739,13 +958,6 @@ Use whit QTLandkarte and Garmin Devices</dc:description>
  d="m 21.780459,9.405584 5.559097,0 c 0.783582,0 13.000869,14.399588 13.000869,15.244172 l -0.347158,18.212311 c 0,0.459259 -0.143737,0.653465 -0.512375,0.653465 l -31.3872026,0.01428 c -0.3686377,0 -0.5839636,-0.07992 -0.5839636,-0.45355 L 7.7250676,24.649756 c 0,-0.844584 13.2718124,-15.244172 14.0553914,-15.244172 z"
  id="path2357"
  sodipodi:nodetypes="ccccccccc"
- inkscape:connector-curvature="0" />
-<path
- sodipodi:nodetypes="ccccccc"
- style="opacity:0.2;fill:url(#radialGradient2384);fill-opacity:1;fill-rule:evenodd"
- id="path23"
- d="M 7.2075295,27.943053 7.1532728,30.538247 25.521437,17.358993 40.807832,28.513421 40.879142,28.201707 24.508686,12.297576 7.2075295,27.943053 z"
- clip-rule="evenodd"
  inkscape:connector-curvature="0" />
 <path
  sodipodi:nodetypes="ccccc"
@@ -767,14 +979,8 @@ Use whit QTLandkarte and Garmin Devices</dc:description>
  clip-rule="evenodd"
  inkscape:connector-curvature="0" />
 <path
- sodipodi:nodetypes="ccccccccccccc"
- style="fill:url(#XMLID_39_)"
- id="path342"
- d="m 24.447748,11.559337 18.92706,17.169868 0.494679,0.391991 0.403676,-0.171385 -0.37287,-0.761673 L 43.622679,27.964702 24.447748,12.392396 5.0582327,28.135731 4.8206309,28.279851 4.603921,28.986637 5.0373408,29.115885 5.4218948,28.807462 24.447748,11.559337 z"
- inkscape:connector-curvature="0" />
-<path
- sodipodi:nodetypes="cccccccccc"
- d="M 24.330168,2.2713382 2.4484294,20.372675 1.8237005,27.538603 3.8236367,29.602926 c 0,0 20.4073813,-17.157285 20.6240933,-17.327963 L 44.08027,29.818223 45.978694,27.494226 44.362903,20.382852 24.44773,2.1668788 24.330168,2.2713382 z"
+ sodipodi:nodetypes="ccccccccc"
+ d="m 2.4484294,20.372675 -0.6247289,7.165928 1.9999362,2.064323 c 0,0 20.4073813,-17.157285 20.6240933,-17.327963 L 44.08027,29.818223 45.978694,27.494226 44.362903,20.382852 24.44773,2.1668788 C 17.121034,8.2428471 9.7826651,14.30554 2.4484294,20.372675 z"
  id="path362"
  style="fill:#ef2929;stroke:#a40000"
  inkscape:connector-curvature="0" />
@@ -920,7 +1126,7 @@ Use whit QTLandkarte and Garmin Devices</dc:description>
 </g>
 <g
  id="Flag__Red"
- transform="matrix(0.14659853,0,0,0.14659853,74.206012,85.412743)"
+ transform="matrix(0.14659891,0,0,0.1622085,74.205925,84.36421)"
  inkscape:label="Flag, Red"
  inkscape:export-xdpi="89.999443"
  inkscape:export-ydpi="89.999443">
@@ -951,7 +1157,7 @@ Use whit QTLandkarte and Garmin Devices</dc:description>
  inkscape:export-ydpi="89.999443">
 <path
  id="path4262"
- d="m 182.34932,20.996296 c 0,0 0,18.704619 52.20028,17.53582 52.20028,-1.168799 49.34094,12.859347 49.34094,12.859347 0,0 -19.19278,-5.845275 -44.99301,18.704619 -25.80022,24.549892 -56.54821,17.53582 -56.54821,17.53582"
+ d="m 182.3492,16.079591 c 0,0 0,20.696308 52.20041,19.403054 52.20042,-1.293254 49.34107,14.228624 49.34107,14.228624 0,0 -19.19283,-6.467686 -44.99313,20.696308 C 213.09727,97.571568 182.3492,89.81063 182.3492,89.81063"
  inkscape:connector-curvature="0"
  style="fill:#ffff00" />
 <path
@@ -969,24 +1175,24 @@ Use whit QTLandkarte and Garmin Devices</dc:description>
  inkscape:rounded="0"
  inkscape:randomized="0"
  d="m 145.26433,95.166631 -2.24641,-0.204801 -1.44224,1.734439 -0.4994,-2.199756 -2.09523,-0.835678 1.93777,-1.154723 0.14732,-2.250916 1.69701,1.486098 2.18627,-0.555465 -0.88896,2.073182 z"
- transform="matrix(-0.48601651,5.5162695,-5.0486233,-0.44481408,755.92822,-684.37722)" />
+ transform="matrix(-0.48601651,5.5162695,-5.0486233,-0.44481408,753.37021,-684.37722)" />
 <path
  style="fill:url(#radialGradient4268);fill-opacity:1;stroke:none"
  inkscape:connector-curvature="0"
- d="m 182.34932,20.996296 c 0,0 0,18.704619 52.20028,17.53582 52.20028,-1.168799 49.34094,12.859347 49.34094,12.859347 0,0 -19.19278,-5.845275 -44.99301,18.704619 -25.80022,24.549892 -56.54821,17.53582 -56.54821,17.53582"
+ d="m 182.3492,16.079591 c 0,0 0,20.696308 52.20041,19.403054 52.20042,-1.293254 49.34107,14.228624 49.34107,14.228624 0,0 -19.19283,-6.467686 -44.99313,20.696308 C 213.09727,97.571568 182.3492,89.81063 182.3492,89.81063"
  id="path4264" />
 <line
  id="line4266"
- y2="21.637486"
- x2="178.56308"
- y1="112.70397"
- x1="178.56308"
+ y2="16.789055"
+ x2="178.56294"
+ y1="117.5524"
+ x1="178.56294"
  stroke-miterlimit="10"
- style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:7.5719924;stroke-linecap:round;stroke-miterlimit:10;stroke-opacity:1" />
+ style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:7.96494389;stroke-linecap:round;stroke-miterlimit:10;stroke-opacity:1" />
 </g>
 <g
  inkscape:label="Flag, Green"
- transform="matrix(0.14659853,0,0,0.14659853,43.206012,85.412743)"
+ transform="matrix(0.14659891,0,0,0.1622085,43.205925,84.36421)"
  id="Flag__Green"
  inkscape:export-xdpi="89.999443"
  inkscape:export-ydpi="89.999443">
@@ -1011,7 +1217,7 @@ Use whit QTLandkarte and Garmin Devices</dc:description>
 </g>
 <g
  id="Flag__Blue"
- transform="matrix(0.14659853,0,0,0.14659853,12.206012,85.412743)"
+ transform="matrix(0.14659891,0,0,0.1622085,12.205925,84.36421)"
  inkscape:label="Flag, Blue"
  inkscape:export-xdpi="89.999443"
  inkscape:export-ydpi="89.999443">
@@ -1156,11 +1362,11 @@ Use whit QTLandkarte and Garmin Devices</dc:description>
  sodipodi:cy="299.50504"
  sodipodi:rx="42.857143"
  sodipodi:ry="42.857143"
- d="m 194.28572,299.50504 c 0,23.66934 -19.1878,42.85714 -42.85715,42.85714 -23.66934,0 -42.85714,-19.1878 -42.85714,-42.85714 0,-23.66935 19.1878,-42.85715 42.85714,-42.85715 23.66935,0 42.85715,19.1878 42.85715,42.85715 z"
- transform="matrix(0.51946977,0,0,0.51946977,-39.582667,-114.11658)" />
+ d="m 194.28572,299.50504 a 42.857143,42.857143 0 1 1 -85.71429,0 42.857143,42.857143 0 1 1 85.71429,0 z"
+ transform="matrix(0.6921811,0,0,0.6921811,-65.736097,-165.84449)" />
 <path
- transform="matrix(0.51946977,0,0,0.51946977,-39.582667,-114.11658)"
- d="m 194.28572,299.50504 c 0,23.66934 -19.1878,42.85714 -42.85715,42.85714 -23.66934,0 -42.85714,-19.1878 -42.85714,-42.85714 0,-23.66935 19.1878,-42.85715 42.85714,-42.85715 23.66935,0 42.85715,19.1878 42.85715,42.85715 z"
+ transform="matrix(0.6921811,0,0,0.6921811,-65.736097,-165.84449)"
+ d="m 194.28572,299.50504 a 42.857143,42.857143 0 1 1 -85.71429,0 42.857143,42.857143 0 1 1 85.71429,0 z"
  sodipodi:ry="42.857143"
  sodipodi:rx="42.857143"
  sodipodi:cy="299.50504"
@@ -1168,16 +1374,26 @@ Use whit QTLandkarte and Garmin Devices</dc:description>
  id="path4381"
  style="fill:url(#radialGradient4383);fill-opacity:1;stroke:none"
  sodipodi:type="arc" />
+<path
+ transform="matrix(1.3931471,0,0,1.3931471,-171.88238,-375.78734)"
+ d="m 194.28572,299.50504 a 42.857143,42.857143 0 1 1 -85.71429,0 42.857143,42.857143 0 1 1 85.71429,0 z"
+ sodipodi:ry="42.857143"
+ sodipodi:rx="42.857143"
+ sodipodi:cy="299.50504"
+ sodipodi:cx="151.42857"
+ id="path4347-7-8"
+ style="fill:none;stroke:none;stroke-opacity:1"
+ sodipodi:type="arc" />
 </g>
 <g
- id="City_-Smal-"
+ id="City_-Small-"
  transform="matrix(0.0651173,0,0,0.0651173,43.283277,185.55964)"
- inkscape:label="City (Smal)"
+ inkscape:label="City (Small)"
  inkscape:export-xdpi="89.98455"
  inkscape:export-ydpi="89.98455">
 <path
- transform="matrix(0.51946977,0,0,0.51946977,-39.582667,-114.11658)"
- d="m 194.28572,299.50504 c 0,23.66934 -19.1878,42.85714 -42.85715,42.85714 -23.66934,0 -42.85714,-19.1878 -42.85714,-42.85714 0,-23.66935 19.1878,-42.85715 42.85714,-42.85715 23.66935,0 42.85715,19.1878 42.85715,42.85715 z"
+ transform="matrix(0.85879475,0,0,0.85879475,-90.966165,-215.74612)"
+ d="m 194.28572,299.50504 a 42.857143,42.857143 0 1 1 -85.71429,0 42.857143,42.857143 0 1 1 85.71429,0 z"
  sodipodi:ry="42.857143"
  sodipodi:rx="42.857143"
  sodipodi:cy="299.50504"
@@ -1193,14 +1409,26 @@ Use whit QTLandkarte and Garmin Devices</dc:description>
  sodipodi:cy="299.50504"
  sodipodi:rx="42.857143"
  sodipodi:ry="42.857143"
- d="m 194.28572,299.50504 c 0,23.66934 -19.1878,42.85714 -42.85715,42.85714 -23.66934,0 -42.85714,-19.1878 -42.85714,-42.85714 0,-23.66935 19.1878,-42.85715 42.85714,-42.85715 23.66935,0 42.85715,19.1878 42.85715,42.85715 z"
- transform="matrix(0.51946977,0,0,0.51946977,-39.582667,-114.11658)" />
+ d="m 194.28572,299.50504 a 42.857143,42.857143 0 1 1 -85.71429,0 42.857143,42.857143 0 1 1 85.71429,0 z"
+ transform="matrix(0.85879475,0,0,0.85879475,-90.966165,-215.74612)" />
+<path
+ transform="matrix(2.824751,0,0,2.824751,-388.66812,-804.55992)"
+ d="m 194.28572,299.50504 a 42.857143,42.857143 0 1 1 -85.71429,0 42.857143,42.857143 0 1 1 85.71429,0 z"
+ sodipodi:ry="42.857143"
+ sodipodi:rx="42.857143"
+ sodipodi:cy="299.50504"
+ sodipodi:cx="151.42857"
+ id="path4347-7-6"
+ style="fill:none;stroke:none;stroke-opacity:1;opacity:1"
+ sodipodi:type="arc" />
 </g>
 <g
- transform="matrix(0.04109096,0,0,0.04109096,62.767399,198.30196)"
+ transform="matrix(0.04109096,0,0,0.04109096,61.669032,198.95448)"
  style="display:inline"
  id="Fishing_Hot_Spot_Facility"
- inkscape:label="Fishing Hot Spot Facility">
+ inkscape:label="Fishing Hot Spot Facility"
+ inkscape:export-xdpi="89.98455"
+ inkscape:export-ydpi="89.98455">
 <path
  id="path4555"
  d="M 520.45976,487.65963 368.91383,336.00195 217.3679,487.65963 l 0,179.8211 c 0,1.74487 0.36572,3.40485 1.00584,4.91741 0.64012,1.51256 1.53791,2.87903 2.68222,4.02335 1.14432,1.1443 2.51079,2.0421 4.02335,2.68222 1.51256,0.64013 3.1725,1.00584 4.91742,1.00584 l 138.9171,0 138.9171,0 c 1.74488,0 3.40486,-0.36571 4.91742,-1.00584 1.51257,-0.64012 2.87904,-1.53792 4.02334,-2.68222 1.14432,-1.14432 2.04211,-2.51079 2.68224,-4.02335 0.64012,-1.51256 1.00583,-3.17254 1.00583,-4.91741 l 0,-179.8211 z"
@@ -1295,5 +1523,149 @@ Use whit QTLandkarte and Garmin Devices</dc:description>
  transform="matrix(0.17439151,0,0,0.17439151,271.97297,428.76559)" />
 </g>
 </g>
+<g
+ inkscape:label="Lodge"
+ inkscape:export-ydpi="89.964821"
+ inkscape:export-xdpi="89.964821"
+ transform="matrix(0.29209112,0,0,0.29209112,99.349386,212.17243)"
+ id="Lodge"
+ style="overflow:visible">
+<path
+ inkscape:connector-curvature="0"
+ style="color:#000000;fill:url(#linearGradient3202);fill-opacity:1;fill-rule:nonzero;stroke:#757575;stroke-width:1.0000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
+ d="M 21.619576,8.1833733 38.646524,9.996004 c 0.839732,0 13.602515,10.545116 13.584065,11.450259 L 51.787068,43.20562 c 0,0.905333 -0.676038,1.637853 -1.515762,1.634177 L 8.0469496,44.654954 c -0.8397329,0 -1.5157625,-0.728844 -1.5157625,-1.634177 l 0.056478,-24.873814 c 0,-0.905331 14.1921789,-9.9635897 15.0319109,-9.9635897 z"
+ id="path3172"
+ sodipodi:nodetypes="ccscscccc" />
+<path
+ inkscape:connector-curvature="0"
+ style="fill:none"
+ id="path3174"
+ d="m 46.963575,45.735573 -45.3248988,0 0,-45.32489746 45.3248988,0 0,45.32489746 z" />
+<path
+ inkscape:connector-curvature="0"
+ style="fill:url(#linearGradient3204);fill-opacity:1;fill-rule:evenodd"
+ id="path3176"
+ d="m 23,29 -0.04574,15.090942 -11.842791,0 L 11,29 23,29 z"
+ clip-rule="evenodd"
+ sodipodi:nodetypes="ccccc" />
+<path
+ inkscape:connector-curvature="0"
+ sodipodi:nodetypes="ccssccccc"
+ id="path3178"
+ d="m 22.681567,9.336268 5.559097,0 c 0.783582,0 22.682341,7.733765 22.672923,8.578297 l -0.281806,25.270296 c -0.0051,0.459232 -0.143737,0.653465 -0.512375,0.653465 L 8.0936894,43.529816 c -0.3686377,0 -0.5839636,-0.07992 -0.5839636,-0.45355 L 8.0380097,18.045268 c 0,-0.844584 13.8599783,-8.709 14.6435573,-8.709 z"
+ style="opacity:0.3125;color:#000000;fill:none;stroke:#ffffff;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible" />
+<path
+ inkscape:connector-curvature="0"
+ clip-rule="evenodd"
+ d="m 6.3651301,26.10065 -0.041816,1.83068 14.1563519,-9.296802 19.712503,0.274537 11.739595,7.855336 0.05496,-0.219887 L 39.437276,15.347461 19.699139,15.064144 z"
+ id="path3180"
+ style="opacity:0.2;fill:url(#radialGradient3206);fill-opacity:1;fill-rule:evenodd"
+ sodipodi:nodetypes="ccccccccc" />
+<path
+ inkscape:connector-curvature="0"
+ clip-rule="evenodd"
+ d="m 22,30 0,14.090942 -9.811029,0 L 12,30 22,30 z"
+ id="path3182"
+ style="fill:url(#linearGradient3208);fill-opacity:1;fill-rule:evenodd"
+ sodipodi:nodetypes="ccccc" />
+<path
+ inkscape:connector-curvature="0"
+ style="opacity:0.40909089;fill:url(#radialGradient3210);fill-opacity:1;fill-rule:evenodd"
+ id="path3184"
+ d="m 19.576856,36.44767 c 0.67279,0 1.216616,0.474605 1.216616,1.058507 0,0.589811 -0.543826,1.068355 -1.216616,1.068355 -0.672272,0 -1.218686,-0.478544 -1.218686,-1.068355 5.15e-4,-0.583902 0.546414,-1.058507 1.218686,-1.058507 z"
+ clip-rule="evenodd" />
+<path
+ inkscape:connector-curvature="0"
+ clip-rule="evenodd"
+ d="m 19.462314,35.932229 c 0.672789,0 1.216615,0.474605 1.216615,1.058507 0,0.589809 -0.543826,1.068353 -1.216615,1.068353 -0.672273,0 -1.218687,-0.478544 -1.218687,-1.068353 5.15e-4,-0.583902 0.546414,-1.058507 1.218687,-1.058507 z"
+ id="path3186"
+ style="fill:url(#radialGradient3212);fill-opacity:1;fill-rule:evenodd" />
+<path
+ inkscape:connector-curvature="0"
+ style="fill:#ef2929;stroke:#a40000;stroke-width:0.73733389"
+ id="path3190"
+ d="M 19.561555,7.9915167 2.6972896,20.760415 2.2158108,25.815346 3.7571625,27.271544 c 0,0 15.7279775,-12.102953 15.8949975,-12.223351 L 39.5164,15.111634 54.584537,27.488769 56.047653,25.849394 54.802362,20.832946 39.45373,7.9831815 z"
+ sodipodi:nodetypes="ccccccccccc" />
+<path
+ inkscape:connector-curvature="0"
+ style="opacity:0.40909089;color:#000000;fill:url(#radialGradient3216);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
+ d="M 3.0001095,20.930034 2.7754078,25.602235 19.591651,12.72394 19.537449,8.5667139 3.0001095,20.930034 z"
+ id="path3192"
+ sodipodi:nodetypes="ccccc" />
+<path
+ inkscape:connector-curvature="0"
+ sodipodi:nodetypes="ccccc"
+ id="path3194"
+ d="m 39.254672,12.562339 0.07665,-4.1203826 14.89684,12.4518976 1.149741,4.58575 -16.123231,-12.917265 z"
+ style="opacity:0.13636367;color:#000000;fill:url(#radialGradient3218);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
+<path
+ inkscape:connector-curvature="0"
+ style="opacity:0.31818183;color:#000000;fill:none;stroke:#ffffff;stroke-width:0.73525488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
+ d="m 26.707642,27.587452 7.335894,0 c 0.625333,0 1.128761,0.413278 1.128761,0.926634 l -0.0065,6.048394 c 0,0.513356 -0.483912,0.843363 -1.109245,0.843363 l -7.34895,0 c -0.625334,0 -1.12876,-0.41328 -1.12876,-0.926635 l 0,-5.965122 c 0,-0.513356 0.503426,-0.926634 1.12876,-0.926634 z"
+ id="path3196"
+ sodipodi:nodetypes="ccccccccc" />
+<rect
+ style="color:#000000;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:#757575;stroke-width:0.73525494;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
+ id="rect3198"
+ width="8.1160145"
+ height="6.6367874"
+ x="26.225241"
+ y="28.116686"
+ rx="0.30940789"
+ ry="0.25400248" />
+<path
+ inkscape:connector-curvature="0"
+ style="opacity:0.39772728;color:#000000;fill:url(#radialGradient3220);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999958;marker:none;visibility:visible;display:inline;overflow:visible"
+ d="m 26.71161,32.043154 c 2.935969,0.220623 4.48571,-0.963099 7.196445,-1.034404 l 0.02007,-2.564454 -7.231712,-0.004 0.0152,3.602875 z"
+ id="path3200"
+ sodipodi:nodetypes="ccccc" />
+<path
+ sodipodi:nodetypes="ccccccccc"
+ id="path3230"
+ d="m 38.480851,27.587452 7.335895,0 c 0.625332,0 1.12876,0.413278 1.12876,0.926634 l -0.0065,6.048394 c 0,0.513356 -0.483911,0.843363 -1.109245,0.843363 l -7.34895,0 c -0.625334,0 -1.12876,-0.41328 -1.12876,-0.926635 l 0,-5.965122 c 0,-0.513356 0.503426,-0.926634 1.12876,-0.926634 z"
+ style="opacity:0.31818183;color:#000000;fill:none;stroke:#ffffff;stroke-width:0.73525488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
+ inkscape:connector-curvature="0" />
+<rect
+ ry="0.25400248"
+ rx="0.30940789"
+ y="28.116686"
+ x="37.998447"
+ height="6.6367874"
+ width="8.1160145"
+ id="rect3232"
+ style="color:#000000;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:#757575;stroke-width:0.73525494;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible" />
+<path
+ sodipodi:nodetypes="ccccc"
+ id="path3234"
+ d="m 38.484819,32.043154 c 2.935969,0.220623 4.485711,-0.963099 7.196445,-1.034404 l 0.02007,-2.564454 -7.231713,-0.004 0.0152,3.602875 z"
+ style="opacity:0.39772728;color:#000000;fill:url(#radialGradient3236);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999958;marker:none;visibility:visible;display:inline;overflow:visible"
+ inkscape:connector-curvature="0" />
+<path
+ sodipodi:nodetypes="ccccccc"
+ id="path3238"
+ d="M 3.0001095,20.930034 2.7754078,25.602235 19.591651,12.72394 38.97401,12.671231 38.764404,8.4296898 19.537449,8.5667139 z"
+ style="opacity:0.40909089;color:#000000;fill:url(#radialGradient3242);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
+ inkscape:connector-curvature="0" />
+<path
+ transform="matrix(0.62973554,0,0,0.62973554,-65.979057,-162.09737)"
+ d="m 194.28572,299.50504 a 42.857143,42.857143 0 1 1 -85.71429,0 42.857143,42.857143 0 1 1 85.71429,0 z"
+ sodipodi:ry="42.857143"
+ sodipodi:rx="42.857143"
+ sodipodi:cy="299.50504"
+ sodipodi:cx="151.42857"
+ id="path4347-7-61"
+ style="fill:none;stroke:none;stroke-opacity:1"
+ sodipodi:type="arc" />
+</g>
+<path
+ transform="matrix(0.18394016,0,0,0.18394016,0.14620384,-9.7288178)"
+ d="m 194.28572,299.50504 a 42.857143,42.857143 0 1 1 -85.71429,0 42.857143,42.857143 0 1 1 85.71429,0 z"
+ sodipodi:ry="42.857143"
+ sodipodi:rx="42.857143"
+ sodipodi:cy="299.50504"
+ sodipodi:cx="151.42857"
+ id="16x16_stretcher"
+ style="fill:none;stroke:#000000;stroke-opacity:1"
+ sodipodi:type="arc" />
 </g>
 </svg>
