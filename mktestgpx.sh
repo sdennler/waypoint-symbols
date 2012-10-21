@@ -33,13 +33,29 @@ sym=(\
  "Skiing Area" "Restroom" "Gas Station" "Campground"\
  "X" "X" "X" "X"\
 
+ "Residence" "Fishing Hot Spot Facility" "Building" "Church"\
  "" "" "" ""\
  "" "" "" ""\
  "" "" "" ""\
  "" "" "" ""\
  "" "" "" ""\
  "" "" "" ""\
+
+ "Car" "" "" ""\
  "" "" "" ""\
+ "" "" "" ""\
+ "" "" "" ""\
+ "" "" "" ""\
+ "" "" "" ""\
+ "" "" "" ""\
+
+ "Navaid, Amber" "Navaid, Black" "Navaid, Blue" "Navaid, Green/White"\
+ "Navaid, Green" "Navaid, Green/Red" "Navaid, Orange" "Navaid, Red/Green"\
+ "Navaid, Red/White" "Navaid, Red" "Navaid, Violet" "Navaid, White"\
+ "Navaid, White/Green" "Navaid, White/Red" "Buoy, White" "Radio Beacon"\
+ "Horn" "Light" "X" "X"\
+ "X" "X" "X" "X"\
+ "X" "X" "X" "X"\
 )
 
 echo '<?xml version="1.0" encoding="UTF-8"?>

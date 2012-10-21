@@ -378,20 +378,20 @@
   <sym>Campground</sym>
 </wpt>
 <wpt lat="3.109" lon="101.140">
-  <name>XT 4:0:0 </name>
-  <sym></sym>
+  <name>XT 4:0:0 Residence</name>
+  <sym>Residence</sym>
 </wpt>
 <wpt lat="3.109" lon="101.141">
-  <name>XT 4:0:1 </name>
-  <sym></sym>
+  <name>XT 4:0:1 Fishing Hot Spot Facility</name>
+  <sym>Fishing Hot Spot Facility</sym>
 </wpt>
 <wpt lat="3.109" lon="101.142">
-  <name>XT 4:0:2 </name>
-  <sym></sym>
+  <name>XT 4:0:2 Building</name>
+  <sym>Building</sym>
 </wpt>
 <wpt lat="3.109" lon="101.143">
-  <name>XT 4:0:3 </name>
-  <sym></sym>
+  <name>XT 4:0:3 Church</name>
+  <sym>Church</sym>
 </wpt>
 <wpt lat="3.108" lon="101.140">
   <name>XT 4:1:0 </name>
@@ -490,8 +490,8 @@
   <sym></sym>
 </wpt>
 <wpt lat="3.109" lon="101.150">
-  <name>XT 5:0:0 </name>
-  <sym></sym>
+  <name>XT 5:0:0 Car</name>
+  <sym>Car</sym>
 </wpt>
 <wpt lat="3.109" lon="101.151">
   <name>XT 5:0:1 </name>
@@ -602,116 +602,76 @@
   <sym></sym>
 </wpt>
 <wpt lat="3.109" lon="101.160">
-  <name>XT 6:0:0 </name>
-  <sym></sym>
+  <name>XT 6:0:0 Navaid, Amber</name>
+  <sym>Navaid, Amber</sym>
 </wpt>
 <wpt lat="3.109" lon="101.161">
-  <name>XT 6:0:1 </name>
-  <sym></sym>
+  <name>XT 6:0:1 Navaid, Black</name>
+  <sym>Navaid, Black</sym>
 </wpt>
 <wpt lat="3.109" lon="101.162">
-  <name>XT 6:0:2 </name>
-  <sym></sym>
+  <name>XT 6:0:2 Navaid, Blue</name>
+  <sym>Navaid, Blue</sym>
 </wpt>
 <wpt lat="3.109" lon="101.163">
-  <name>XT 6:0:3 </name>
-  <sym></sym>
+  <name>XT 6:0:3 Navaid, Green/White</name>
+  <sym>Navaid, Green/White</sym>
 </wpt>
 <wpt lat="3.108" lon="101.160">
-  <name>XT 6:1:0 </name>
-  <sym></sym>
+  <name>XT 6:1:0 Navaid, Green</name>
+  <sym>Navaid, Green</sym>
 </wpt>
 <wpt lat="3.108" lon="101.161">
-  <name>XT 6:1:1 </name>
-  <sym></sym>
+  <name>XT 6:1:1 Navaid, Green/Red</name>
+  <sym>Navaid, Green/Red</sym>
 </wpt>
 <wpt lat="3.108" lon="101.162">
-  <name>XT 6:1:2 </name>
-  <sym></sym>
+  <name>XT 6:1:2 Navaid, Orange</name>
+  <sym>Navaid, Orange</sym>
 </wpt>
 <wpt lat="3.108" lon="101.163">
-  <name>XT 6:1:3 </name>
-  <sym></sym>
+  <name>XT 6:1:3 Navaid, Red/Green</name>
+  <sym>Navaid, Red/Green</sym>
 </wpt>
 <wpt lat="3.107" lon="101.160">
-  <name>XT 6:2:0 </name>
-  <sym></sym>
+  <name>XT 6:2:0 Navaid, Red/White</name>
+  <sym>Navaid, Red/White</sym>
 </wpt>
 <wpt lat="3.107" lon="101.161">
-  <name>XT 6:2:1 </name>
-  <sym></sym>
+  <name>XT 6:2:1 Navaid, Red</name>
+  <sym>Navaid, Red</sym>
 </wpt>
 <wpt lat="3.107" lon="101.162">
-  <name>XT 6:2:2 </name>
-  <sym></sym>
+  <name>XT 6:2:2 Navaid, Violet</name>
+  <sym>Navaid, Violet</sym>
 </wpt>
 <wpt lat="3.107" lon="101.163">
-  <name>XT 6:2:3 </name>
-  <sym></sym>
+  <name>XT 6:2:3 Navaid, White</name>
+  <sym>Navaid, White</sym>
 </wpt>
 <wpt lat="3.106" lon="101.160">
-  <name>XT 6:3:0 </name>
-  <sym></sym>
+  <name>XT 6:3:0 Navaid, White/Green</name>
+  <sym>Navaid, White/Green</sym>
 </wpt>
 <wpt lat="3.106" lon="101.161">
-  <name>XT 6:3:1 </name>
-  <sym></sym>
+  <name>XT 6:3:1 Navaid, White/Red</name>
+  <sym>Navaid, White/Red</sym>
 </wpt>
 <wpt lat="3.106" lon="101.162">
-  <name>XT 6:3:2 </name>
-  <sym></sym>
+  <name>XT 6:3:2 Buoy, White</name>
+  <sym>Buoy, White</sym>
 </wpt>
 <wpt lat="3.106" lon="101.163">
-  <name>XT 6:3:3 </name>
-  <sym></sym>
+  <name>XT 6:3:3 Radio Beacon</name>
+  <sym>Radio Beacon</sym>
 </wpt>
 <wpt lat="3.105" lon="101.160">
-  <name>XT 6:4:0 </name>
-  <sym></sym>
+  <name>XT 6:4:0 Horn</name>
+  <sym>Horn</sym>
 </wpt>
 <wpt lat="3.105" lon="101.161">
-  <name>XT 6:4:1 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.105" lon="101.162">
-  <name>XT 6:4:2 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.105" lon="101.163">
-  <name>XT 6:4:3 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.104" lon="101.160">
-  <name>XT 6:5:0 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.104" lon="101.161">
-  <name>XT 6:5:1 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.104" lon="101.162">
-  <name>XT 6:5:2 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.104" lon="101.163">
-  <name>XT 6:5:3 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.160">
-  <name>XT 6:6:0 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.161">
-  <name>XT 6:6:1 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.162">
-  <name>XT 6:6:2 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.163">
-  <name>XT 6:6:3 </name>
-  <sym></sym>
+  <name>XT 6:4:1 Light</name>
+  <sym>Light</sym>
 </wpt>
 <wpt lat="3.109" lon="101.170">
   <name>XT 7:0:0 </name>
