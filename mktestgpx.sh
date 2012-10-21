@@ -1,5 +1,6 @@
 #!/bin/bash
 
+block=(Markers Outdoors Hunting Marine Civil Transportation Navaids Signs "Points of interest")
 sym=(\
  "Flag, Blue" "Flag, Green" "Flag, Red" "Civil"\
  "Pin, Blue" "Pin, Green" "Pin, Red" "Golf Course"\
@@ -69,6 +70,13 @@ echo '<?xml version="1.0" encoding="UTF-8"?>
 symi=0
 for (( b = 0; b <= 9; b++ ))
  do
+
+ # Symbol Block
+ echo "<wpt lat=\"3.11\" lon=\"101.1${b}15\">"
+ echo "  <name>Block $b ${block[$b]}</name>"
+ echo "  <sym>Waypoint</sym>"
+ echo "</wpt>"
+
  for (( x = 0; x <= 6; x++ ))
   do
    for (( y = 0; y <= 3; y++ ))

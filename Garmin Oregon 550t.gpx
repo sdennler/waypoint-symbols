@@ -5,6 +5,10 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns="http://www.topografix.com/GPX/1/0"
   xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd">
+<wpt lat="3.11" lon="101.1015">
+  <name>Block 0 Markers</name>
+  <sym>Waypoint</sym>
+</wpt>
 <wpt lat="3.109" lon="101.100">
   <name>XT 0:0:0 Flag, Blue</name>
   <sym>Flag, Blue</sym>
@@ -117,6 +121,10 @@
   <name>XT 0:6:3 Museum</name>
   <sym>Museum</sym>
 </wpt>
+<wpt lat="3.11" lon="101.1115">
+  <name>Block 1 Outdoors</name>
+  <sym>Waypoint</sym>
+</wpt>
 <wpt lat="3.109" lon="101.110">
   <name>XT 1:0:0 Campground</name>
   <sym>Campground</sym>
@@ -213,6 +221,10 @@
   <name>XT 1:5:3 Ultralight Area</name>
   <sym>Ultralight Area</sym>
 </wpt>
+<wpt lat="3.11" lon="101.1215">
+  <name>Block 2 Hunting</name>
+  <sym>Waypoint</sym>
+</wpt>
 <wpt lat="3.109" lon="101.120">
   <name>XT 2:0:0 Upland Game</name>
   <sym>Upland Game</sym>
@@ -280,6 +292,10 @@
 <wpt lat="3.105" lon="101.120">
   <name>XT 2:4:0 Blind</name>
   <sym>Blind</sym>
+</wpt>
+<wpt lat="3.11" lon="101.1315">
+  <name>Block 3 Marine</name>
+  <sym>Waypoint</sym>
 </wpt>
 <wpt lat="3.109" lon="101.130">
   <name>XT 3:0:0 Anchor</name>
@@ -376,6 +392,10 @@
 <wpt lat="3.104" lon="101.133">
   <name>XT 3:5:3 Campground</name>
   <sym>Campground</sym>
+</wpt>
+<wpt lat="3.11" lon="101.1415">
+  <name>Block 4 Civil</name>
+  <sym>Waypoint</sym>
 </wpt>
 <wpt lat="3.109" lon="101.140">
   <name>XT 4:0:0 Residence</name>
@@ -489,6 +509,10 @@
   <name>XT 4:6:3 </name>
   <sym></sym>
 </wpt>
+<wpt lat="3.11" lon="101.1515">
+  <name>Block 5 Transportation</name>
+  <sym>Waypoint</sym>
+</wpt>
 <wpt lat="3.109" lon="101.150">
   <name>XT 5:0:0 Car</name>
   <sym>Car</sym>
@@ -601,6 +625,10 @@
   <name>XT 5:6:3 </name>
   <sym></sym>
 </wpt>
+<wpt lat="3.11" lon="101.1615">
+  <name>Block 6 Navaids</name>
+  <sym>Waypoint</sym>
+</wpt>
 <wpt lat="3.109" lon="101.160">
   <name>XT 6:0:0 Navaid, Amber</name>
   <sym>Navaid, Amber</sym>
@@ -672,6 +700,10 @@
 <wpt lat="3.105" lon="101.161">
   <name>XT 6:4:1 Light</name>
   <sym>Light</sym>
+</wpt>
+<wpt lat="3.11" lon="101.1715">
+  <name>Block 7 Signs</name>
+  <sym>Waypoint</sym>
 </wpt>
 <wpt lat="3.109" lon="101.170">
   <name>XT 7:0:0 </name>
@@ -785,6 +817,10 @@
   <name>XT 7:6:3 </name>
   <sym></sym>
 </wpt>
+<wpt lat="3.11" lon="101.1815">
+  <name>Block 8 Points of interest</name>
+  <sym>Waypoint</sym>
+</wpt>
 <wpt lat="3.109" lon="101.180">
   <name>XT 8:0:0 </name>
   <sym></sym>
@@ -896,6 +932,10 @@
 <wpt lat="3.103" lon="101.183">
   <name>XT 8:6:3 </name>
   <sym></sym>
+</wpt>
+<wpt lat="3.11" lon="101.1915">
+  <name>Block 9 </name>
+  <sym>Waypoint</sym>
 </wpt>
 <wpt lat="3.109" lon="101.190">
   <name>XT 9:0:0 </name>
