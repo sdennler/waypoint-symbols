@@ -1,9 +1,16 @@
-This are some symbols for waypoints to use in QLandkarte GT which match the ones on Garmin Devices.
+This are some symbols for waypoints to use in QLandkarte GT which match the ones on Garmin Devices. In addition, there are a few new symbols which can be put on some Garmin devices as well.
 
-You find the ready to use symbols in the folder finished. Copy them to ~/.config/QLandkarteGT/WaypointIcons/ to uses in QLandkarte GT.
+You find the ready to use symbols for QLandkarte GT in the folder finished. Copy them to ~/.config/QLandkarteGT/WaypointIcons/ to uses in QLandkarte GT.
+In the folder garmin are the new symbols ready to be used on Garmin Devices. Copy them to the folder Garmin/CustomSymbols on your device.
 
 If you like to edit the symbols or add more, its best to use Inkscape to edit the file garmin_symbols.svg. After, export the symbols whit the export function to png files and use the script rename_sym.sh (it will overwrite files in finished and the QLandkarte config directory!) so they have the right names.
 And yes, it would be great to have your edits in this repository to!
 
-All symbols are from The Open Clipart Library (OCAL) (http://openclipart.org/) or drawn/modivied by me.
-The license of all symbols is CC0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/).
+
+License
+
+Except specially noted bellow, all symbols are from The Open Clipart Library (OCAL) (http://openclipart.org/) or drawn/modivied by me.
+The license of this symbols is CC0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/).
+
+Exceptions
+Open Bug Marker and Closed Bug Marker: Is from "Knob Buttons Toolbar icons" (http://itweek.deviantart.com/art/Knob-Buttons-Toolbar-icons-73463960)

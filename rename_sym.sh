@@ -7,3 +7,7 @@ for f in *.png
  done
 
 cp finished/* ~/.config/QLandkarteGT/WaypointIcons/
+
+if [ -d /media/Garmin\ SD/Garmin/CustomSymbols/ ]; then
+ cp garmin/* /media/Garmin\ SD/Garmin/CustomSymbols/
+fi
