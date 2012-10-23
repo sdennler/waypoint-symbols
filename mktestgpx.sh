@@ -1,6 +1,6 @@
 #!/bin/bash
 
-block=(Markers Outdoors Hunting Marine Civil Transportation Navaids Signs "Points of interest")
+block=(Markers Outdoors Hunting Marine Civil Transportation Navaids Signs "Points of interest" Custom)
 sym=(\
  "Flag, Blue" "Flag, Green" "Flag, Red" "Civil"\
  "Pin, Blue" "Pin, Green" "Pin, Red" "Golf Course"\
@@ -57,6 +57,30 @@ sym=(\
  "Horn" "Light" "X" "X"\
  "X" "X" "X" "X"\
  "X" "X" "X" "X"\
+
+ "Shopping Center" "Picnic Area" "Telephone" "Airport"\
+ "Restroom" "Information" "Restaurant" "Lodging"\
+ "Shower" "Boat Ramp" "Skiing Area" "Swimming Area"\
+ "Fitness Center" "Ice Skating" "Medical Facility" "Pharmacy"\
+ "Parking Area" "Crossing" "Trail Head" "Bike Trail"\
+ "Skull and Crossbones" "Ski Resort" "Trail Head" "Dam"\
+ "X" "X" "X" "X"\
+
+ "Gas Station" "Convenience Store" "Bank" "Bar"\
+ "Department Store" "Movie Theater" "Fast Food" "Pizza"\
+ "Restaurant" "Lodging" "Shopping Center" "Airport"\
+ "Fitness Center" "Live Theater" "Medical Facility" "Pharmacy"\
+ "Post Office" "Museum" "Golf Course" "Ball Park"\
+ "Bowling" "Amusement Park" "Stadium" "Zoo"\
+ "X" "X" "X" "X"\
+
+ "Closed Bug Marker" "Open Bug Marker" "" ""\
+ "" "" "" ""\
+ "" "" "" ""\
+ "" "" "" ""\
+ "" "" "" ""\
+ "" "" "" ""\
+ "" "" "" ""\
 )
 
 echo '<?xml version="1.0" encoding="UTF-8"?>

@@ -706,244 +706,212 @@
   <sym>Waypoint</sym>
 </wpt>
 <wpt lat="3.109" lon="101.170">
-  <name>XT 7:0:0 </name>
-  <sym></sym>
+  <name>XT 7:0:0 Shopping Center</name>
+  <sym>Shopping Center</sym>
 </wpt>
 <wpt lat="3.109" lon="101.171">
-  <name>XT 7:0:1 </name>
-  <sym></sym>
+  <name>XT 7:0:1 Picnic Area</name>
+  <sym>Picnic Area</sym>
 </wpt>
 <wpt lat="3.109" lon="101.172">
-  <name>XT 7:0:2 </name>
-  <sym></sym>
+  <name>XT 7:0:2 Telephone</name>
+  <sym>Telephone</sym>
 </wpt>
 <wpt lat="3.109" lon="101.173">
-  <name>XT 7:0:3 </name>
-  <sym></sym>
+  <name>XT 7:0:3 Airport</name>
+  <sym>Airport</sym>
 </wpt>
 <wpt lat="3.108" lon="101.170">
-  <name>XT 7:1:0 </name>
-  <sym></sym>
+  <name>XT 7:1:0 Restroom</name>
+  <sym>Restroom</sym>
 </wpt>
 <wpt lat="3.108" lon="101.171">
-  <name>XT 7:1:1 </name>
-  <sym></sym>
+  <name>XT 7:1:1 Information</name>
+  <sym>Information</sym>
 </wpt>
 <wpt lat="3.108" lon="101.172">
-  <name>XT 7:1:2 </name>
-  <sym></sym>
+  <name>XT 7:1:2 Restaurant</name>
+  <sym>Restaurant</sym>
 </wpt>
 <wpt lat="3.108" lon="101.173">
-  <name>XT 7:1:3 </name>
-  <sym></sym>
+  <name>XT 7:1:3 Lodging</name>
+  <sym>Lodging</sym>
 </wpt>
 <wpt lat="3.107" lon="101.170">
-  <name>XT 7:2:0 </name>
-  <sym></sym>
+  <name>XT 7:2:0 Shower</name>
+  <sym>Shower</sym>
 </wpt>
 <wpt lat="3.107" lon="101.171">
-  <name>XT 7:2:1 </name>
-  <sym></sym>
+  <name>XT 7:2:1 Boat Ramp</name>
+  <sym>Boat Ramp</sym>
 </wpt>
 <wpt lat="3.107" lon="101.172">
-  <name>XT 7:2:2 </name>
-  <sym></sym>
+  <name>XT 7:2:2 Skiing Area</name>
+  <sym>Skiing Area</sym>
 </wpt>
 <wpt lat="3.107" lon="101.173">
-  <name>XT 7:2:3 </name>
-  <sym></sym>
+  <name>XT 7:2:3 Swimming Area</name>
+  <sym>Swimming Area</sym>
 </wpt>
 <wpt lat="3.106" lon="101.170">
-  <name>XT 7:3:0 </name>
-  <sym></sym>
+  <name>XT 7:3:0 Fitness Center</name>
+  <sym>Fitness Center</sym>
 </wpt>
 <wpt lat="3.106" lon="101.171">
-  <name>XT 7:3:1 </name>
-  <sym></sym>
+  <name>XT 7:3:1 Ice Skating</name>
+  <sym>Ice Skating</sym>
 </wpt>
 <wpt lat="3.106" lon="101.172">
-  <name>XT 7:3:2 </name>
-  <sym></sym>
+  <name>XT 7:3:2 Medical Facility</name>
+  <sym>Medical Facility</sym>
 </wpt>
 <wpt lat="3.106" lon="101.173">
-  <name>XT 7:3:3 </name>
-  <sym></sym>
+  <name>XT 7:3:3 Pharmacy</name>
+  <sym>Pharmacy</sym>
 </wpt>
 <wpt lat="3.105" lon="101.170">
-  <name>XT 7:4:0 </name>
-  <sym></sym>
+  <name>XT 7:4:0 Parking Area</name>
+  <sym>Parking Area</sym>
 </wpt>
 <wpt lat="3.105" lon="101.171">
-  <name>XT 7:4:1 </name>
-  <sym></sym>
+  <name>XT 7:4:1 Crossing</name>
+  <sym>Crossing</sym>
 </wpt>
 <wpt lat="3.105" lon="101.172">
-  <name>XT 7:4:2 </name>
-  <sym></sym>
+  <name>XT 7:4:2 Trail Head</name>
+  <sym>Trail Head</sym>
 </wpt>
 <wpt lat="3.105" lon="101.173">
-  <name>XT 7:4:3 </name>
-  <sym></sym>
+  <name>XT 7:4:3 Bike Trail</name>
+  <sym>Bike Trail</sym>
 </wpt>
 <wpt lat="3.104" lon="101.170">
-  <name>XT 7:5:0 </name>
-  <sym></sym>
+  <name>XT 7:5:0 Skull and Crossbones</name>
+  <sym>Skull and Crossbones</sym>
 </wpt>
 <wpt lat="3.104" lon="101.171">
-  <name>XT 7:5:1 </name>
-  <sym></sym>
+  <name>XT 7:5:1 Ski Resort</name>
+  <sym>Ski Resort</sym>
 </wpt>
 <wpt lat="3.104" lon="101.172">
-  <name>XT 7:5:2 </name>
-  <sym></sym>
+  <name>XT 7:5:2 Trail Head</name>
+  <sym>Trail Head</sym>
 </wpt>
 <wpt lat="3.104" lon="101.173">
-  <name>XT 7:5:3 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.170">
-  <name>XT 7:6:0 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.171">
-  <name>XT 7:6:1 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.172">
-  <name>XT 7:6:2 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.173">
-  <name>XT 7:6:3 </name>
-  <sym></sym>
+  <name>XT 7:5:3 Dam</name>
+  <sym>Dam</sym>
 </wpt>
 <wpt lat="3.11" lon="101.1815">
   <name>Block 8 Points of interest</name>
   <sym>Waypoint</sym>
 </wpt>
 <wpt lat="3.109" lon="101.180">
-  <name>XT 8:0:0 </name>
-  <sym></sym>
+  <name>XT 8:0:0 Gas Station</name>
+  <sym>Gas Station</sym>
 </wpt>
 <wpt lat="3.109" lon="101.181">
-  <name>XT 8:0:1 </name>
-  <sym></sym>
+  <name>XT 8:0:1 Convenience Store</name>
+  <sym>Convenience Store</sym>
 </wpt>
 <wpt lat="3.109" lon="101.182">
-  <name>XT 8:0:2 </name>
-  <sym></sym>
+  <name>XT 8:0:2 Bank</name>
+  <sym>Bank</sym>
 </wpt>
 <wpt lat="3.109" lon="101.183">
-  <name>XT 8:0:3 </name>
-  <sym></sym>
+  <name>XT 8:0:3 Bar</name>
+  <sym>Bar</sym>
 </wpt>
 <wpt lat="3.108" lon="101.180">
-  <name>XT 8:1:0 </name>
-  <sym></sym>
+  <name>XT 8:1:0 Department Store</name>
+  <sym>Department Store</sym>
 </wpt>
 <wpt lat="3.108" lon="101.181">
-  <name>XT 8:1:1 </name>
-  <sym></sym>
+  <name>XT 8:1:1 Movie Theater</name>
+  <sym>Movie Theater</sym>
 </wpt>
 <wpt lat="3.108" lon="101.182">
-  <name>XT 8:1:2 </name>
-  <sym></sym>
+  <name>XT 8:1:2 Fast Food</name>
+  <sym>Fast Food</sym>
 </wpt>
 <wpt lat="3.108" lon="101.183">
-  <name>XT 8:1:3 </name>
-  <sym></sym>
+  <name>XT 8:1:3 Pizza</name>
+  <sym>Pizza</sym>
 </wpt>
 <wpt lat="3.107" lon="101.180">
-  <name>XT 8:2:0 </name>
-  <sym></sym>
+  <name>XT 8:2:0 Restaurant</name>
+  <sym>Restaurant</sym>
 </wpt>
 <wpt lat="3.107" lon="101.181">
-  <name>XT 8:2:1 </name>
-  <sym></sym>
+  <name>XT 8:2:1 Lodging</name>
+  <sym>Lodging</sym>
 </wpt>
 <wpt lat="3.107" lon="101.182">
-  <name>XT 8:2:2 </name>
-  <sym></sym>
+  <name>XT 8:2:2 Shopping Center</name>
+  <sym>Shopping Center</sym>
 </wpt>
 <wpt lat="3.107" lon="101.183">
-  <name>XT 8:2:3 </name>
-  <sym></sym>
+  <name>XT 8:2:3 Airport</name>
+  <sym>Airport</sym>
 </wpt>
 <wpt lat="3.106" lon="101.180">
-  <name>XT 8:3:0 </name>
-  <sym></sym>
+  <name>XT 8:3:0 Fitness Center</name>
+  <sym>Fitness Center</sym>
 </wpt>
 <wpt lat="3.106" lon="101.181">
-  <name>XT 8:3:1 </name>
-  <sym></sym>
+  <name>XT 8:3:1 Live Theater</name>
+  <sym>Live Theater</sym>
 </wpt>
 <wpt lat="3.106" lon="101.182">
-  <name>XT 8:3:2 </name>
-  <sym></sym>
+  <name>XT 8:3:2 Medical Facility</name>
+  <sym>Medical Facility</sym>
 </wpt>
 <wpt lat="3.106" lon="101.183">
-  <name>XT 8:3:3 </name>
-  <sym></sym>
+  <name>XT 8:3:3 Pharmacy</name>
+  <sym>Pharmacy</sym>
 </wpt>
 <wpt lat="3.105" lon="101.180">
-  <name>XT 8:4:0 </name>
-  <sym></sym>
+  <name>XT 8:4:0 Post Office</name>
+  <sym>Post Office</sym>
 </wpt>
 <wpt lat="3.105" lon="101.181">
-  <name>XT 8:4:1 </name>
-  <sym></sym>
+  <name>XT 8:4:1 Museum</name>
+  <sym>Museum</sym>
 </wpt>
 <wpt lat="3.105" lon="101.182">
-  <name>XT 8:4:2 </name>
-  <sym></sym>
+  <name>XT 8:4:2 Golf Course</name>
+  <sym>Golf Course</sym>
 </wpt>
 <wpt lat="3.105" lon="101.183">
-  <name>XT 8:4:3 </name>
-  <sym></sym>
+  <name>XT 8:4:3 Ball Park</name>
+  <sym>Ball Park</sym>
 </wpt>
 <wpt lat="3.104" lon="101.180">
-  <name>XT 8:5:0 </name>
-  <sym></sym>
+  <name>XT 8:5:0 Bowling</name>
+  <sym>Bowling</sym>
 </wpt>
 <wpt lat="3.104" lon="101.181">
-  <name>XT 8:5:1 </name>
-  <sym></sym>
+  <name>XT 8:5:1 Amusement Park</name>
+  <sym>Amusement Park</sym>
 </wpt>
 <wpt lat="3.104" lon="101.182">
-  <name>XT 8:5:2 </name>
-  <sym></sym>
+  <name>XT 8:5:2 Stadium</name>
+  <sym>Stadium</sym>
 </wpt>
 <wpt lat="3.104" lon="101.183">
-  <name>XT 8:5:3 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.180">
-  <name>XT 8:6:0 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.181">
-  <name>XT 8:6:1 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.182">
-  <name>XT 8:6:2 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.183">
-  <name>XT 8:6:3 </name>
-  <sym></sym>
+  <name>XT 8:5:3 Zoo</name>
+  <sym>Zoo</sym>
 </wpt>
 <wpt lat="3.11" lon="101.1915">
-  <name>Block 9 </name>
+  <name>Block 9 Custom</name>
   <sym>Waypoint</sym>
 </wpt>
 <wpt lat="3.109" lon="101.190">
-  <name>XT 9:0:0 </name>
-  <sym></sym>
+  <name>XT 9:0:0 Closed Bug Marker</name>
+  <sym>Closed Bug Marker</sym>
 </wpt>
 <wpt lat="3.109" lon="101.191">
-  <name>XT 9:0:1 </name>
-  <sym></sym>
+  <name>XT 9:0:1 Open Bug Marker</name>
+  <sym>Open Bug Marker</sym>
 </wpt>
 <wpt lat="3.109" lon="101.192">
   <name>XT 9:0:2 </name>
