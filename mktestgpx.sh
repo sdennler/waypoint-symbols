@@ -35,20 +35,20 @@ sym=(\
  "X" "X" "X" "X"\
 
  "Residence" "Fishing Hot Spot Facility" "Building" "Church"\
- "" "" "" ""\
+ "Cemetery" "Horn" "Tall Tower" "Short Tower"\
  "" "" "" ""\
  "" "" "" ""\
  "" "" "" ""\
  "" "" "" ""\
  "" "" "" ""\
 
- "Car" "" "" ""\
- "" "" "" ""\
- "" "" "" ""\
- "" "" "" ""\
- "" "" "" ""\
- "" "" "" ""\
- "" "" "" ""\
+ "Car" "Car Rental" "Car Repair" "Gas Station"\
+ "Convenience Store" "Scales" "Airport" "School"\
+ "Truck Stop" "Wrecker" "Tunnel" "Toll Booth"\
+ "Restroom" "Restaurant" "Lodging" "Crossing"\
+ "Bridge" "Parking Area" "X" "X"\
+ "X" "X" "X" "X"\
+ "X" "X" "X" "X"\
 
  "Navaid, Amber" "Navaid, Black" "Navaid, Blue" "Navaid, Green/White"\
  "Navaid, Green" "Navaid, Green/Red" "Navaid, Orange" "Navaid, Red/Green"\
@@ -63,7 +63,7 @@ sym=(\
  "Shower" "Boat Ramp" "Skiing Area" "Swimming Area"\
  "Fitness Center" "Ice Skating" "Medical Facility" "Pharmacy"\
  "Parking Area" "Crossing" "Trail Head" "Bike Trail"\
- "Skull and Crossbones" "Ski Resort" "Trail Head" "Dam"\
+ "Skull and Crossbones" "Ski Resort" "Bridge" "Dam"\
  "X" "X" "X" "X"\
 
  "Gas Station" "Convenience Store" "Bank" "Bar"\
