@@ -36,11 +36,11 @@ sym=(\
 
  "Residence" "Fishing Hot Spot Facility" "Building" "Church"\
  "Cemetery" "Horn" "Tall Tower" "Short Tower"\
- "" "" "" ""\
- "" "" "" ""\
- "" "" "" ""\
- "" "" "" ""\
- "" "" "" ""\
+ "Radio Beacon" "Oil Field" "Mine" "Drinking Water"\
+ "School" "Crossing" "Civil" "Bridge"\
+ "Police Station" "Bell" "X" "X"\
+ "X" "X" "X" "X"\
+ "X" "X" "X" "X"\
 
  "Car" "Car Rental" "Car Repair" "Gas Station"\
  "Convenience Store" "Scales" "Airport" "School"\

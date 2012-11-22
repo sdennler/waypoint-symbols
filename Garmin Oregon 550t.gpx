@@ -430,84 +430,44 @@
   <sym>Short Tower</sym>
 </wpt>
 <wpt lat="3.107" lon="101.140">
-  <name>XT 4:2:0 </name>
-  <sym></sym>
+  <name>XT 4:2:0 Radio Beacon</name>
+  <sym>Radio Beacon</sym>
 </wpt>
 <wpt lat="3.107" lon="101.141">
-  <name>XT 4:2:1 </name>
-  <sym></sym>
+  <name>XT 4:2:1 Oil Field</name>
+  <sym>Oil Field</sym>
 </wpt>
 <wpt lat="3.107" lon="101.142">
-  <name>XT 4:2:2 </name>
-  <sym></sym>
+  <name>XT 4:2:2 Mine</name>
+  <sym>Mine</sym>
 </wpt>
 <wpt lat="3.107" lon="101.143">
-  <name>XT 4:2:3 </name>
-  <sym></sym>
+  <name>XT 4:2:3 Drinking Water</name>
+  <sym>Drinking Water</sym>
 </wpt>
 <wpt lat="3.106" lon="101.140">
-  <name>XT 4:3:0 </name>
-  <sym></sym>
+  <name>XT 4:3:0 School</name>
+  <sym>School</sym>
 </wpt>
 <wpt lat="3.106" lon="101.141">
-  <name>XT 4:3:1 </name>
-  <sym></sym>
+  <name>XT 4:3:1 Crossing</name>
+  <sym>Crossing</sym>
 </wpt>
 <wpt lat="3.106" lon="101.142">
-  <name>XT 4:3:2 </name>
-  <sym></sym>
+  <name>XT 4:3:2 Civil</name>
+  <sym>Civil</sym>
 </wpt>
 <wpt lat="3.106" lon="101.143">
-  <name>XT 4:3:3 </name>
-  <sym></sym>
+  <name>XT 4:3:3 Bridge</name>
+  <sym>Bridge</sym>
 </wpt>
 <wpt lat="3.105" lon="101.140">
-  <name>XT 4:4:0 </name>
-  <sym></sym>
+  <name>XT 4:4:0 Police Station</name>
+  <sym>Police Station</sym>
 </wpt>
 <wpt lat="3.105" lon="101.141">
-  <name>XT 4:4:1 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.105" lon="101.142">
-  <name>XT 4:4:2 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.105" lon="101.143">
-  <name>XT 4:4:3 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.104" lon="101.140">
-  <name>XT 4:5:0 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.104" lon="101.141">
-  <name>XT 4:5:1 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.104" lon="101.142">
-  <name>XT 4:5:2 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.104" lon="101.143">
-  <name>XT 4:5:3 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.140">
-  <name>XT 4:6:0 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.141">
-  <name>XT 4:6:1 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.142">
-  <name>XT 4:6:2 </name>
-  <sym></sym>
-</wpt>
-<wpt lat="3.103" lon="101.143">
-  <name>XT 4:6:3 </name>
-  <sym></sym>
+  <name>XT 4:4:1 Bell</name>
+  <sym>Bell</sym>
 </wpt>
 <wpt lat="3.11" lon="101.1515">
   <name>Block 5 Transportation</name>
